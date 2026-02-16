@@ -25,6 +25,7 @@
 #include <libxml/tree.h>
 #include <locale.h>
 #include <glib/gi18n.h>
+#include <stdlib.h>
 
 #include "osinfo-db-util.h"
 
